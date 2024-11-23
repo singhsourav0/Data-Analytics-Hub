@@ -51,9 +51,8 @@ cd Data-Analytics-Hub
 
 ### 📦 Install Required Libraries
 Ensure you have Python installed 🐍. Then install dependencies:
-```bash
-pip install -r requirements.txt
-```
+
+---
 
 ### 🏃‍♂️ Run the Projects
 Each project has its own analysis script. To run a specific project, navigate to its directory and execute the script:
